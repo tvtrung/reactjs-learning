@@ -1,0 +1,11 @@
+.outer{
+    
+}
+.outer li{
+    color: #000000;
+    font-weight: bold;
+    cursor: pointer;
+}
+.outer li.active{
+    color: #e60838;
+}
